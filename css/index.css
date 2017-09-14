@@ -125,6 +125,9 @@ button[disabled=disabled], button:disabled {
 
 }
 
+.titulo{	
+	text-transform: uppercase;	
+}
 .adicionar-paciente{
     margin-top: 30px;
 }
